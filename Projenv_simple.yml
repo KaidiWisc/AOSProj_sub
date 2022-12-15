@@ -1,0 +1,15 @@
+name: KDenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pysteps
+  - scikit-learn
+  - shapely
+  - xarray
+  - netcdf4
+  - scipy
+  - cartopy
