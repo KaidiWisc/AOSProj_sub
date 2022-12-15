@@ -6,6 +6,7 @@ AOSproject.py: functions used in Main.ipynb
 
 Projenv_all.yml: Full yml exported from my environment (windows system) directly
 Projenv_simple.yml: Only packages used in this experiment
+You should be able to use AOS573-Tutorials to run it as well!
 
 Data used:
 
